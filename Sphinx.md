@@ -1,1 +1,1 @@
-Tutaj treść Sphinx
+Tu wpisz Sphinx z przykładami i zrzutami ekranu

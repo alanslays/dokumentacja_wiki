@@ -1,1 +1,1 @@
-Autor: alanslays, link do RtD
+Autor: Alan Nowicki, klasa 4TPJM17, link do RtD

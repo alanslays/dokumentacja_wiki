@@ -1,1 +1,1 @@
-Tutaj treść phpDocumentator
+Tu wpisz phpDocumentator z przykładami i zrzutami ekranu
